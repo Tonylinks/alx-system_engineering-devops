@@ -1,0 +1,2 @@
+#!/bin/bash
+getent /etc/passwd | sort -k 1
