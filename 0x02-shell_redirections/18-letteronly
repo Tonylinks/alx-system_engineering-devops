@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -v ^[[:digit:]] /etc/ssn/sshd_config
+grep -vi ^[[:digit:]] /etc/ssn/sshd_config
