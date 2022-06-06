@@ -1,2 +1,2 @@
 #!/bin/bash
- sort -v [[:digit:]]* /etc/ssn/sshd_config
+ grep -v [[:digit:]]* /etc/ssn/sshd_config
