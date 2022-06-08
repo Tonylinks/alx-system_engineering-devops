@@ -1,0 +1,2 @@
+#!/bin/bash
+sort -nrk 7 | cut -f 1 | uniq -c | sort -nrk 1 | cut -f 2
