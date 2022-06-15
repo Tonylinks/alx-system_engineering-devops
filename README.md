@@ -1,1 +1,2 @@
-This is about shell navigation
+This is everything about the shell.
+Specifically the bash shell.
